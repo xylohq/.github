@@ -2,7 +2,7 @@
   <a href="https://xylolabs.space">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="brand/logo/xylo-horizontal-reversed.svg">
-      <img src="brand/logo/xylo-horizontal.svg" alt="Xylo Labs" width="280">
+      <img src="xylo-horizontal.svg" alt="Xylo Labs" width="280">
     </picture>
   </a>
 </p>
